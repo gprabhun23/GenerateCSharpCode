@@ -1,0 +1,10 @@
+C:\Users\Ganesh\Documents\SharpDevelop Projects\NotifyMe\cSharpCodeGenerator\bin\Debug\cSharpCodeGenerator.exe.config
+C:\Users\Ganesh\Documents\SharpDevelop Projects\NotifyMe\cSharpCodeGenerator\bin\Debug\cSharpCodeGenerator.exe
+C:\Users\Ganesh\Documents\SharpDevelop Projects\NotifyMe\cSharpCodeGenerator\bin\Debug\cSharpCodeGenerator.pdb
+C:\Users\Ganesh\Documents\SharpDevelop Projects\NotifyMe\cSharpCodeGenerator\obj\Debug\cSharpCodeGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Ganesh\Documents\SharpDevelop Projects\NotifyMe\cSharpCodeGenerator\obj\Debug\cSharpCodeGenerator.dataTableSetup.resources
+C:\Users\Ganesh\Documents\SharpDevelop Projects\NotifyMe\cSharpCodeGenerator\obj\Debug\cSharpCodeGenerator.MainForm.resources
+C:\Users\Ganesh\Documents\SharpDevelop Projects\NotifyMe\cSharpCodeGenerator\obj\Debug\cSharpCodeGenerator.csproj.GenerateResource.Cache
+C:\Users\Ganesh\Documents\SharpDevelop Projects\NotifyMe\cSharpCodeGenerator\obj\Debug\cSharpCodeGenerator.exe
+C:\Users\Ganesh\Documents\SharpDevelop Projects\NotifyMe\cSharpCodeGenerator\obj\Debug\cSharpCodeGenerator.pdb
+C:\Users\Ganesh\Documents\SharpDevelop Projects\NotifyMe\cSharpCodeGenerator\obj\Debug\cSharpCodeGenerator.PaintForm.resources
